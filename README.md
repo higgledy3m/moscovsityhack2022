@@ -13,3 +13,5 @@
 ##### 3) Мария Федюкевич
 ##### 4) Денис Захаров
 ##### 5) Руслан Льянов
+
+![Alt-Higgledy-Piggledy](https://avatars.githubusercontent.com/u/106260371?s=400&u=9b0183edb9c15b976f8c87ef060a5cc2c9feabc9&v=4 "Задача 03")
